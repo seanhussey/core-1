@@ -522,7 +522,7 @@ class Kohana_RouteTest extends Unittest_TestCase
 	}
 
 	/**
-	 * When using a FQCN
+	 * When using a FQCN test if the directory is not set else throw an exception
 	 *
 	 * @test
 	 * @covers Route::defaults
